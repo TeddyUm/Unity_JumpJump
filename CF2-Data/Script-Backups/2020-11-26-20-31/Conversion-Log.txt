@@ -1,0 +1,14 @@
+Converting script [1 / 1]	[\Scripts\Player.cs]
+	Fragments : 5
+		[ 0] : Line:   44	InputMethod   GetKeyDown          	(KeyCode.Space)
+		[ 1] : Line:  141	InputMethod   GetButtonUp         	("Horizontal")
+		[ 2] : Line:  147	InputMethod   GetAxisRaw          	("Horizontal")
+		[ 3] : Line:  151	InputMethod   GetAxisRaw          	("Horizontal")
+		[ 4] : Line:  153	InputMethod   GetAxisRaw          	("Horizontal")
+
+
+1 scripts modified!
+Overwriting actual scripts...
+	[0 / 1] from  [D:/Study/College/5nd Semester/MobileGame/MobileA3/CF2-Data/Script-Backups/2020-11-26-20-31\Assets-After/\Scripts\Player.cs] to [D:/Study/College/5nd Semester/MobileGame/MobileA3/Assets/\Scripts\Player.cs]
+
+Overwriting COMPLETED!
